@@ -3,8 +3,8 @@
 ## 📌 Project Overview
 This project demonstrates hosting a static website using **GitHub Pages**. The repository contains static HTML and CSS files deployed automatically via GitHub Pages deployment pipeline.
 
-- **Live Website URL:** [https://dixitravi174-cpu.github.io/elevate-devops-task5/](https://dixitravi174-cpu.github.io/elevate-devops-task5/)
-- **GitHub Repository:** [https://github.com/dixitravi174-cpu/elevate-devops-task5](https://github.com/dixitravi174-cpu/elevate-devops-task5)
+- **Live Website URL:** https://dixitravi174-cpu.github.io/elevate-devops-task5/
+- **GitHub Repository:** https://github.com/dixitravi174-cpu/elevate-devops-task5
 
 ---
 
@@ -49,3 +49,13 @@ The default entry file served by GitHub Pages in the root directory is `index.ht
 
 ### 7. Can you use a custom domain?
 Yes, GitHub Pages allows adding a custom domain in repository settings by configuring appropriate CNAME or A records with your DNS provider.
+
+---
+
+## 📸 Proof of Deployment
+
+### 1. GitHub Pages Configuration
+![GitHub Pages Deployment](ss1-github-pages-deployment.png.png)
+
+### 2. Live Website
+![Live Website](ss2-live-website.png.png)
